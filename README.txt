@@ -23,4 +23,8 @@ Tausif Islam - Student Number()
 Jasmine Tam - Student Number()
 
 Description: 
-Syros Riff: is a tool that helps you detect and control your overall plastic waste consumption. It's a smart tool that allows you to have a transparent understanding of what goes into the products that you consume on a daily basis. This application has various features: It takes the items you buy and shows the types of plastic within the protect, analyzes the CO2 emissions, detects the amount of plastic you're consuming within that one product, and tells your the best way to dipose of that product. 
+Syros Riff: This tool helps you detect and control your overall plastic waste consumption.
+It's a smart tool that allows you to have a transparent understanding of what goes into the 
+products you consume daily. This application has various features: It takes the items
+you buy and shows the types of plastic within the protection, analyzes the CO2 emissions,
+detects the amount of plastic you're consuming within that one product, and tells you the best way to dispose of that product. 
