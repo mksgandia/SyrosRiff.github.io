@@ -1,12 +1,12 @@
 Organization Name: Syros Riff
 Organization Page: https://github.com/SyrosRiff
 Organization Repository Page Link: https://github.com/SyrosRiff/
-Orginization READMe.txt File Page Link: 
+Orginization READMe.txt File Page Link: https://github.com/SyrosRiff/SyrosRiff.github.io/main/README.txt
 
 Members:
 Team name: Syros Riff
 
-Team Member Name: 
+Team Member Names: 
 Tristan Roy - Student Number(300311454)
 tristanjoy
 https://github.com/tristanjroy
