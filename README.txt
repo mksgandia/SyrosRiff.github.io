@@ -1,7 +1,7 @@
 Organization Name: Syros Riff
 Organization Page: https://github.com/SyrosRiff
 Organization Repository Page Link: https://github.com/SyrosRiff/
-Orginization READMe.txt File Page Link: https://github.com/SyrosRiff/SyrosRiff.github.io/main/README.txt
+Orginization READMe.txt File Page Link: https://github.com/SyrosRiff/SyrosRiff.github.io/blob/main/README.txt
 
 Members:
 Team name: Syros Riff
